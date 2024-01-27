@@ -1,0 +1,11 @@
+CSV: Comma Seperated Values 
+
+Common format to store data in tables 
+
+
+
+Panda 2 eseential classes of CSV  data types 
+
+DataFrame: The entire table makes up the data frame 
+
+Series: A series is a column within a data frame

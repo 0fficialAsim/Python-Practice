@@ -1,0 +1,21 @@
+activity: 1
+advise: 2
+airport: 1
+ask: 1
+buzz: 5
+continue: 2
+fang: 1
+five: 2
+frog: 2
+houses: 3
+hurry: 3
+launch: 1
+pan: 1
+point: 1
+ray: 2
+tangible: 1
+thrill: 1
+utopian: 1
+visitor: 3
+whispering: 1
+
